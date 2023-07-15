@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+.hi {
+    color: aqua;
+}
+
+#hi {
+    color: blue;
+}
+
+* {
+    font-family: "pingfang SC";
+}
